@@ -28,5 +28,3 @@ Internet → IGW → EC2 (Public Subnet) → Nginx → index.html
 - Nginx
 - HTML/CSS
 
-## Screenshot
-(screenshot daalo yahan)
